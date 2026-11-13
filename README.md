@@ -1,6 +1,6 @@
 # Calculadora com Histórico
 
-Aplicativo móvel de calculadora desenvolvido em React Native com Expo para a disciplina de Desenvolvimento de Dispositivos Móveis.
+Aplicativo móvel de calculadora desenvolvido em React Native com Expo.
 Permite realizar operações aritméticas básicas de soma, subtração, multiplicação e divisão com armazenamento local automático.
 O projeto funciona tanto no navegador web quanto no aplicativo Expo Go em dispositivos Android e iOS.
 
